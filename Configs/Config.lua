@@ -3,7 +3,7 @@ Mek91_ML = {}
 ---------------------------------------------------------------------------------------------------------------------------
 Mek91_ML.Core = exports['qb-core']:GetCoreObject()
 ---------------------------------------------------------------------------------------------------------------------------
-Mek91_ML.Language = TR -- | TR | EN | Select Language.
+Mek91_ML.Language = EN -- | TR | EN | Select Language.
 ---------------------------------------------------------------------------------------------------------------------------
 Mek91_ML.DiscordColor = 2303786 -- You can reach Discord Colour Codes from here: https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812
 Mek91_ML.DiscordWebhook = "YOUR_WEBHOOK" -- Write Discord Webhook Address! (Optional)
